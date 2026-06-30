@@ -4,7 +4,7 @@ class Demo {
     protected int k;
 
     public Demo() {
-        i = 0;
+        i = 0; 
         j = 0;
         k = 0;
     }
